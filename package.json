@@ -1,0 +1,25 @@
+{
+  "name": "s66-dataloader",
+  "version": "1.0.0",
+  "description": "sample data loader",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ToonvanStrijp/s66-dataloader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ToonvanStrijp/s66-dataloader/issues"
+  },
+  "homepage": "https://github.com/ToonvanStrijp/s66-dataloader#readme",
+  "dependencies": {
+    "csv-parse": "^4.8.5"
+  }
+}
